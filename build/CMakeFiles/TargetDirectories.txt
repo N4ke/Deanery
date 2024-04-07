@@ -1,0 +1,3 @@
+C:/wscpp/Deanery/build/CMakeFiles/main.dir
+C:/wscpp/Deanery/build/CMakeFiles/edit_cache.dir
+C:/wscpp/Deanery/build/CMakeFiles/rebuild_cache.dir
